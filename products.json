@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" BAG ",
+        "price": 200,
+        "image": "images/p1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" BAG ",
+        "price": 250,
+        "image": "images/p2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" BAG ",
+        "price": 290,
+        "image": "images/p3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" BAG ",
+        "price": 200,
+        "image": "images/p4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" BAG ",
+        "price": 300,
+        "image": "images/p5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" BAG ",
+        "price": 200,
+        "image": "images/p6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" BAG ",
+        "price": 200,
+        "image": "images/p7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" BAG ",
+        "price": 200,
+        "image": "images/p8.jpg"
+    }
+
+]
